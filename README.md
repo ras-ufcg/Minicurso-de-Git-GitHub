@@ -1,1 +1,1 @@
-# Minicurso-de-Arduino-Git-GitHub
+# Minicurso de Git e GitHub
