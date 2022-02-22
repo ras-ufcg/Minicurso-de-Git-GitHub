@@ -80,11 +80,11 @@ https://github.com/rafaballerini/PerfilGithub
 ## Ministrantes
 - [Danilo Barreto Cavalcanti](https://github.com/danilo-bc)
 
-[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=danilobcaval@gmail.comr&color=red)](mailto:danilobcaval@gmail.com)
+[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=danilo.cavalcanti@ee.ufcg.edu.br&color=red)](mailto:danilo.cavalcanti@ee.ufcg.edu.br)
 [![my linkedin](https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0072b1&labelColor=fafafa&label=LinkedIn&message=Danilo%20Barreto%20Cavalcanti&color=0072b1)](https://www.linkedin.com/in/danilo-barreto-cavalcanti-956ba91b4/) 
 
 - [Guilherme Silva Toledo](https://github.com/drawnator)
 
-[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=guilherme.toledo@ccc.ufcg.edu.brr&color=red)](mailto:guilherme.toledo@ccc.ufcg.edu.br)
+[![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=guilherme.toledo@ccc.ufcg.edu.br&color=red)](mailto:guilherme.toledo@ccc.ufcg.edu.br)
 
 
