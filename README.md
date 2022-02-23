@@ -7,7 +7,7 @@
 2. [Sobre](#sobre)
 3. [Aula 01](#aula-01)
 4. [Aula 02](#aula-02)
-5. [Ministrantes](#ministrantes)
+6. [Ministrantes](#ministrantes)
 
 ## Introdução
      
@@ -21,8 +21,8 @@ O minicurso foi organizado pelo Capítulo Estudantil IEEE RAS UFCG e ministrados
 ## Aula 01
 
 ### Apresentação
-- [Slide](https://drive.google.com/file/d/1_wUGKrmNKKR21x4GmCNw99KTktxTTLUh/view?usp=sharing)
-- [Gravação](https://drive.google.com/file/d/1DcIxT5yg6IbuYxX6SDd6kQENSSX-3BSM/view?usp=sharing)
+- [Aula 01 - Minicurso de Git e GitHub.pdf](https://drive.google.com/file/d/1_wUGKrmNKKR21x4GmCNw99KTktxTTLUh/view?usp=sharing)
+- [Aula 01 - Minicurso de Git e GitHub.mp4](https://drive.google.com/file/d/1DcIxT5yg6IbuYxX6SDd6kQENSSX-3BSM/view?usp=sharing)
 
 ### Repositórios Remotos
 Alguns sites de gerenciamento de repositórios online, existem outros
@@ -56,26 +56,66 @@ O Git é um sistema de controle de versão distribuído gratuito e de código 
 - [Download - Git for Windows](https://gitforwindows.org/)
 
 ## Aula 02
-###  Em construção...
-![image](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint-1200px.gif)
 
-## Extras
+### Apresentação
+
+- [Aula 02 - Minicurso de Git e GitHub.mp4](https://drive.google.com/file/d/1nZuUPANTNJBDJgqEF3wN9vYv3UsAgidf/view?usp=sharing)
+
+### GitHub Folha de Dicas de Git - Comandos
+
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GitHub Folha de Dicas de Git](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)
 
 ### O que é Markdown?
 
 Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e , usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
 
 - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-
 - [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-https://github.com/rafaballerini/PerfilGithub
 
-###  Como Personalizar o seu Perfil no GitHub?
+### Como personalizar o seu perfil no GitHub?
+
+Existem inúmeras formas de você personalizar o seu perfil no GitHub, primeiro você terá que criar um repositório publico exatamente com seu *username*, o GitHub interpretará como um repositório especial, com um README.md de forma que ele será exibido ao abrir seu perfil.
+
+É possível personalizar utilizando HTML e Markdown, segue alguns exemplos.
+
+Para transformar um texto em citação ou comentário em Markdown utilize o sinal  >  no inicio da linha que será formatada:
+
+```jsx
+> olá, meu nome é guilherme
+```
+
+Como aparecerá no HTML:
+
+> olá, meu nome é guilherme
+
+Legal, mas eu gostaria de adicionar aquelas coisas prontas bonitas. O mais comum é adicionar estatísticas  do GitHub geradas dinamicamente. Inicialmente parece algo extremamente complexo, felizmente temos o repositório ****GitHub Readme Stats****, com ele é necessário apenas adicionar o código HTML abaixo alterando para o link do seu perfil no github e o seu *username.*
+
+```jsx
+<div align="center">
+  <a href="https://github.com/drawnator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drawnator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawnator&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+```
+
+Como aparecerá no HTML:
+
+<div align="center">
+  <a href="https://github.com/drawnator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drawnator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawnator&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+     
+Outros modelos, temas e entre outras coisas conseguimos encontrar no repositório acima.
+     
+Essas são apenas algumas formas, existem muitas outras personalizações e ferramentas que auxiliam nisso, abaixo temos um exemplo e um tutorial em vídeo retirado do YouTube.
 
 - [YouTube - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&t=319s)
 - [GitHub - Rafaella Ballerini](https://github.com/rafaballerini/PerfilGithub)
-![image](https://user-images.githubusercontent.com/50165797/155046903-43a749cd-6cd2-4874-a4ed-27190fb6af79.png)
-
+<img align="center" height="180em" src="https://user-images.githubusercontent.com/50165797/155046903-43a749cd-6cd2-4874-a4ed-27190fb6af79.png"/>
 
 ## Ministrantes
 - [Danilo Barreto Cavalcanti](https://github.com/danilo-bc)
@@ -86,5 +126,3 @@ https://github.com/rafaballerini/PerfilGithub
 - [Guilherme Silva Toledo](https://github.com/drawnator)
 
 [![my email](https://img.shields.io/static/v1?style=flat&logo=gmail&labelColor=fafafa&label=Email&message=guilherme.toledo@ccc.ufcg.edu.br&color=red)](mailto:guilherme.toledo@ccc.ufcg.edu.br)
-
-
